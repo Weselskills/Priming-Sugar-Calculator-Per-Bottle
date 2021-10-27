@@ -6,7 +6,7 @@ The last released version of the tool can be easily found under "Releases" on th
 
 To find the download, you must click on the release version you want. Once opened, the excel file can be found on the bottom of the page under "Assets".
 
-To download, click on the file: "Bottling.sugar.calculator.-.Per.bottle-V2.xlsm". Save it where you want and use the tool.
+To download, click on the file: "Bottling.sugar.calculator.-.Per.bottle-V[..].xlsm". Save it where you want and use the tool.
 
 Let me know if anything is unclear, or wrong with the tool.
 
