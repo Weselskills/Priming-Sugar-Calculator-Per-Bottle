@@ -6,7 +6,7 @@ The latest version of the tool can be easily found by checking the timestamps
 of the table in the "<> Code" page.
 This will show how long ago a file was committed to the page.
 
-Or you can check for the higher version
+And you need to check for the latest version
 number described in the text of the commits (V2, V3, V4, etc.).
 
 To find the download page you need to click on the text:
