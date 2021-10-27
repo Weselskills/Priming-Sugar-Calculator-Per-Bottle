@@ -2,7 +2,7 @@
 
 Welcome to the Github page for my Excel tool.
 
-The latest released versions of the tool can be easily found under "Releases" on the right side of this page.
+The last released version of the tool can be easily found under "Releases" on the right side of this page.
 
 To find the download, you must click on the release version you want. Once opened, the excel file can be found on the bottom of the page under "Assets".
 
