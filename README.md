@@ -3,7 +3,7 @@
 Welcome to the Github page for my Excel tool.
 
 The latest version of the tool can be easily found by checking the timestamps
-of the table in the "<> Code" page.
+of the table above.
 This will show how long ago a file was committed to the page.
 
 And you need to check for the latest version
